@@ -1,0 +1,6 @@
+This is firs added .txt page.
+Now I'm studying Git and Git-hub.
+I think this will be a good practice.
+This is text document.
+
+Um... when after someday, If anybody see my practice project(this) It's gonna be fun... haha
